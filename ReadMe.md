@@ -26,6 +26,5 @@ Bu proje, **HTML** ve **CSS** kullanılarak oluşturulan bir kurs web sitesini i
 
 ## Proje GIF
 
-![Proje Demo](assets/Udemig-course-html(1).gif)
+![Proje Tanıtım GIF'i](assets/Udemig-course-html (1).gif)
 
-Bu GIF, projenin nasıl çalıştığını ve siteyi kullanıcıların nasıl deneyimleyeceğini gösterir.
