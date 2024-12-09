@@ -26,5 +26,6 @@ Bu proje, **HTML** ve **CSS** kullanılarak oluşturulan bir kurs web sitesini i
 
 ## Proje GIF
 
-![Proje Tanıtım GIF'i](assets/Udemig-course-html (1).gif)
+![Proje Tanıtım GIF'i](assets/Kayıt-2024-12-09-213141.gif)
+
 
